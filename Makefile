@@ -1,0 +1,2 @@
+runapp:
+	python app.py
